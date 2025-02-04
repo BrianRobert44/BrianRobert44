@@ -20,6 +20,4 @@ I have experience in *HTML, CSS, JavaScript, React JS, Bootstrap.
 
 ##  Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/your-profile)
-[Portfolio](https://your-portfolio.com)<!--
-
--->
+[Portfolio](https://your-portfolio.com)
