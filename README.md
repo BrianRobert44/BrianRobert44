@@ -4,6 +4,8 @@ Hi there, I'm Brian Robert
 
 Welcome to my GitHub profile! I'm a *Front-End Developer* with a passion for creating scalable and interactive web applications.  
 I have experience in *HTML, CSS, JavaScript, React JS, Bootstrap. 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR-USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
+
 
 ##  About Me  
  Front-End Developer | Passionate about UI/UX
